@@ -3,7 +3,7 @@ import pyautogui as pt
 from time import sleep
 import pyperclip
 
-sleep(3)
+sleep(10)
 
 
 def get_messeage():
