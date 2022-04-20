@@ -1,4 +1,3 @@
-from logging import exception
 import colours_and_positions as position
 import pyautogui as pt
 from time import sleep
