@@ -32,8 +32,10 @@ def response_messeage(messeage):
     pt.typewrite("\n", interval=.01)
 
 def process_messeage(messeage): 
-    if messeage == "halo" or messeage == "Halo" :
+    if messeage == "Halo":
         return "Halo Juga!"
+    elif messeage == "Hai":
+        return "Hai Juga!"
 
 def check_new_messeage():
     global x, y
