@@ -1,11 +1,8 @@
-from email import message
-from email.errors import MessageError
 from logging import exception
 import colours_and_positions as position
 import pyautogui as pt
 from time import sleep
 import pyperclip
-import random
 
 sleep(3)
 
